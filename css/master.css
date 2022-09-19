@@ -1,0 +1,30 @@
+body {
+    background-color: #E3FDFD;
+    font-family: Lexend Deca,sans-serif;
+}
+
+hr {
+    border-color: #A6E3E9;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    width: 10%;
+}
+
+h1,h3 {
+    color: #348d92;
+}
+
+.sub_heading {
+    color: #348d92;
+}
+
+.work-content {
+    margin: 0;
+    padding: 0.5% 0;
+}
+
+.work-heading {
+    color: #348d92;
+    font-weight: bolder;
+}
